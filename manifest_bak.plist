@@ -29,13 +29,13 @@
             <key>metadata</key>
             <dict>
                 <key>bundle-identifier</key>
-                <string>com.ihangmei.wangfanconception</string>
+                <string>io.dcloud.H534E3896</string>
                 <key>bundle-version</key>
                 <string>1.8.0</string>
                 <key>kind</key>
                 <string>software</string>
                 <key>title</key>
-                <string>ChessGame</string>
+                <string>H534E3896</string>
             </dict>
         </dict>
     </array>
