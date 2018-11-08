@@ -11,13 +11,13 @@
                     <key>kind</key>
                     <string>software-package</string>
                     <key>url</key>
-                    <string>http://www.wx.tt-cool.com/app_download/H534E3896_1102152002.ipa</string>//ipa文件存放位置	
+                    <string>http://www.wx.tt-cool.com/app_download/H534E3896_1102152002.ipa</string>
                 </dict>
                 <dict>
                     <key>kind</key>
                     <string>display-image</string>
                     <key>url</key>
-                    <string>http://www.wx.tt-cool.com/app_download/image57.png</string>//安装时桌面显示的 logo 图标
+                    <string>http://www.wx.tt-cool.com/app_download/image57.png</string>
                 </dict>
                 <dict>
                     <key>kind</key>
