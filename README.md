@@ -1,5 +1,5 @@
 # IOSAppInstall
-提供ios未发布软件安装
+提供ios软件安装
 这是一个用于iOSApp测试的NodeJSWeb项目
 iOS通itms-services://协议安装ipa，省去https环境的搭建
 原理
