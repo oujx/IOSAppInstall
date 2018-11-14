@@ -17,13 +17,13 @@
             <key>metadata</key>
             <dict>
                 <key>bundle-identifier</key>
-                <string>io.dcloud.H534E3896</string>
+                <string>tenbay.game</string>
                 <key>bundle-version</key>
-                <string>1.0</string>
+                <string>1.0.0</string>
                 <key>kind</key>
                 <string>software</string>
                 <key>title</key>
-                <string>H534E3896</string>
+                <string>tenbayGame</string>
             </dict>
         </dict>
     </array>
